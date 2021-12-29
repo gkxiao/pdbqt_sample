@@ -9,7 +9,7 @@
 <img src='https://github.com/gkxiao/pdbqt_sample/blob/main/ZINC22579716.png' alt="ZINC22579716">
 <p>ZINC ID: 22579716</p>
 <p>SMILES: Cc1ccc(C2CC(C(F)(F)F)n3nc(C(=O)N4CC[NH+]5CCCC5C4)c(Cl)c3N2)cc1</p>
-<p>The files was used to test MolToPDBQTBlock or MolFromPDBQTBlock function.</p>
+
 <li>ZINC08441965</li>
 <img src='https://github.com/gkxiao/pdbqt_sample/blob/main/ZINC08441965.png' alt="ZINC22579716">
 <p>ZINC ID: 08441965</p>
