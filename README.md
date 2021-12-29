@@ -1,5 +1,5 @@
 <h2>case study</h2>
-<p>The files was used to test MolToPDBQTBlock or MolFromPDBQTBlock function in the <a ref="https://github.com/biocheming/watvina">watvina/rdkit2pdbqt</a>. The following molecules were used as decoy in VEGFR2 of the DEKOIS 2.0 <sup>[1]</sup>.</p>
+<p>The following molecules were used as decoy in VEGFR2 of the DEKOIS 2.0 <sup>[1]</sup> and were used to test MolToPDBQTBlock and MolFromPDBQTBlock function in the <a ref="https://github.com/biocheming/watvina">watvina/rdkit2pdbqt</a>. </p>
 <ol>
 <li>ZINC20533791</li>
 <img src='https://github.com/gkxiao/pdbqt_sample/blob/main/ZINC20533791.png' alt="ZINC20533791">
