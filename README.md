@@ -1,4 +1,5 @@
 <h2>case study</h2>
+<p>The files was used to test MolToPDBQTBlock or MolFromPDBQTBlock function.</p>
 <ol>
 <li>ZINC20533791</li>
 <img src='https://github.com/gkxiao/pdbqt_sample/blob/main/ZINC20533791.png' alt="ZINC20533791">
@@ -14,4 +15,10 @@
 <p>ZINC ID: 08441965</p>
 <p>SMILES: [H]/N=C1\C(C#N)C2=CC[NH+](Cc3ccccc3)CC2C(c2ccc(OC)c3ccccc23)C1(C#N)C#N</p>
 </ol>
-<p>The files was used to test MolToPDBQTBlock or MolFromPDBQTBlock function.</p>
+<h2>Step to reproduce the results</h2>
+<pre line="1" lang="python">
+python docking.py
+</pre>
+
+<h2>Reference</h2>
+(1) Bauer, M. R.; Ibrahim, T. M.; Vogel, S. M.; Boeckler, F. M. Evaluation and Optimization of Virtual Screening Workflows with DEKOIS 2.0 – A Public Library of Challenging Docking Benchmark Sets. J. Chem. Inf. Model. 2013, 53 (6), 1447–1462. https://doi.org/10.1021/ci400115b.
