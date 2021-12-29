@@ -1,5 +1,5 @@
 <h2>case study</h2>
-<p>The following molecules were used as decoy in VEGFR2 of the DEKOIS 2.0 <sup>[1]</sup> and were used to test MolToPDBQTBlock and MolFromPDBQTBlock function in the <a ref="https://github.com/biocheming/watvina">watvina/rdkit2pdbqt</a>. </p>
+<p>The following molecules were used as decoy in VEGFR2 of the DEKOIS 2.0 <sup>[1]</sup> and were used to test MolToPDBQTBlock and MolFromPDBQTBlock function in the <a ref='https://github.com/biocheming/watvina'>watvina/rdkit2pdbqt</a><sup>[2]</sup>. </p>
 <ol>
 <li>ZINC20533791</li>
 <img src='https://github.com/gkxiao/pdbqt_sample/blob/main/ZINC20533791.png' alt="ZINC20533791">
@@ -22,3 +22,4 @@ python docking.py
 
 <h2>Reference</h2>
 (1) Bauer, M. R.; Ibrahim, T. M.; Vogel, S. M.; Boeckler, F. M. Evaluation and Optimization of Virtual Screening Workflows with DEKOIS 2.0 – A Public Library of Challenging Docking Benchmark Sets. J. Chem. Inf. Model. 2013, 53 (6), 1447–1462. https://doi.org/10.1021/ci400115b.
+(2)https://github.com/biocheming/watvina
